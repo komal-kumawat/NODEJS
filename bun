@@ -1,2 +1,5 @@
 Like Node.js, Bun is a JavaScript runtime that allows you to execute JavaScript code on the server side.
 
+bun is not based on top of nodejs . bun is writing a js runtime from scratch in this language called "ZIG"
+
+Node js is very slow , bun is  a better version of nodejs.
